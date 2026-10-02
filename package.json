@@ -1,0 +1,8 @@
+{
+  "name": "arsenic-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ARSENIC website with Razorpay Standard Checkout (Vercel serverless)",
+  "engines": { "node": ">=18" },
+  "dependencies": { "razorpay": "^2.9.4" }
+}
